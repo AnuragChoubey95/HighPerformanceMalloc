@@ -8,7 +8,6 @@
 <br>
 An additional requirement was to write a heap validator which throws an error based on when certian defined properties are violated by the heap.
 <br>
-The source code for the project is in the project_3/mymalloc/ directory.
 
 ### Boilerplate Walkthrough
 
