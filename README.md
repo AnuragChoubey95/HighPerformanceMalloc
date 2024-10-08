@@ -1,4 +1,4 @@
-# Project 3: Serial Dynamic Memory Allocator
+# Project: Serial Dynamic Memory Allocator
 
 #### Submitted by : ac2255@g.rit.edu
 #### Time Spent On Project: 2 Weeks
