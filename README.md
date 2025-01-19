@@ -1,7 +1,7 @@
 # Project: Serial Dynamic Memory Allocator
 
 ### Description:
- The requirement was to implement a serial dynamic memory allocator in C. The implementation is graded using a performance index which is a function of the meory utilization as well as the throughput.
+ The requirement was to implement a serial dynamic memory allocator in C. The implementation is evaluated using a performance index which is a function of the memory utilization as well as the throughput.
 <br>
 An additional requirement was to write a heap validator which throws an error based on when certian defined properties are violated by the heap.
 <br>
