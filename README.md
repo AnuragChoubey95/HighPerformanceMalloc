@@ -1,7 +1,5 @@
 # Project: Serial Dynamic Memory Allocator
 
-#### Submitted by : ac2255@g.rit.edu
-
 ### Description:
  The requirement was to implement a serial dynamic memory allocator in C. The implementation is graded using a performance index which is a function of the meory utilization as well as the throughput.
 <br>
